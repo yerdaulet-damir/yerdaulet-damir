@@ -31,20 +31,8 @@
 |------|-------|
 | **AI Agents** | GPT-4o · Claude 3 · Gemini 1.5 |
 | **Low-Code / No-Code** | Latenode · n8n · Supabase |
-| **Programming** | JavaScript/TS · Node · Python |
+| **Programming** | JavaScript/TS · Node · Python · Java |
 | **DevOps** | Docker · GitHub Actions |
-
----
-
-## 🏆 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YerdauletDamir&show_icons=true&theme=default"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YerdauletDamir&layout=compact&hide=jupyter%20notebook&theme=default"/>
-</p>
-
-> *These cards update automatically every 24 h.*
 
 ---
 
@@ -53,8 +41,6 @@
 | Repo | Stars | What it does |
 |------|-------|--------------|
 | [`awesome-latenode-workflows`](https://github.com/yeerdauleet/awesome-latenode-workflows) | ![Stars](https://img.shields.io/github/stars/latenode/awesome-latenode-workflows?style=social) | Free no-/low-code automation templates |
-| [`ai-agent-templates-latenode`](https://github.com/yeerdauleet/ai-agent-templates-latenode) | ![Stars](https://img.shields.io/github/stars/latenode/ai-agent-templates-latenode?style=social) | GPT-powered single & multi-agent flows |
-| [`crm-automation-templates-latenode`](https://github.com/latenode/crm-automation-templates-latenode) | ![Stars](https://img.shields.io/github/stars/latenode/crm-automation-templates-latenode?style=social) | Lead scoring & stage alerts for any CRM |
 
 *(Stars auto-update; fork & PR are welcome!)*
 
