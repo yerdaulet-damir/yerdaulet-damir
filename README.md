@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://latenode.com"><img src="https://img.shields.io/badge/Platform-Latenode-blue?logo=githubactions&logoColor=white"></a>
   <a href="https://linkedin.com/in/yerdauletdamir"><img src="https://img.shields.io/badge/Follow-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:hi@latenode.com"><img src="https://img.shields.io/badge/Contact-Email-red?logo=gmail&logoColor=white"></a>
+  <a href="mailto:ye.damir@latenode.com"><img src="https://img.shields.io/badge/Contact-Email-red?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -52,8 +52,8 @@
 
 | Repo | Stars | What it does |
 |------|-------|--------------|
-| [`awesome-latenode-workflows`](https://github.com/latenode/awesome-latenode-workflows) | ![Stars](https://img.shields.io/github/stars/latenode/awesome-latenode-workflows?style=social) | Free no-/low-code automation templates |
-| [`ai-agent-templates-latenode`](https://github.com/latenode/ai-agent-templates-latenode) | ![Stars](https://img.shields.io/github/stars/latenode/ai-agent-templates-latenode?style=social) | GPT-powered single & multi-agent flows |
+| [`awesome-latenode-workflows`](https://github.com/yeerdauleet/awesome-latenode-workflows) | ![Stars](https://img.shields.io/github/stars/latenode/awesome-latenode-workflows?style=social) | Free no-/low-code automation templates |
+| [`ai-agent-templates-latenode`](https://github.com/yeerdauleet/ai-agent-templates-latenode) | ![Stars](https://img.shields.io/github/stars/latenode/ai-agent-templates-latenode?style=social) | GPT-powered single & multi-agent flows |
 | [`crm-automation-templates-latenode`](https://github.com/latenode/crm-automation-templates-latenode) | ![Stars](https://img.shields.io/github/stars/latenode/crm-automation-templates-latenode?style=social) | Lead scoring & stage alerts for any CRM |
 
 *(Stars auto-update; fork & PR are welcome!)*
@@ -75,7 +75,7 @@
 
 - Open an **Issue** or **Discussion** in any repo.  
 - DM on **LinkedIn**.  
-- Or just email **hi@latenode.com** — always up for AI & automation chat!
+- Or just email **ye.damir@latenode.com** — always up for AI & automation chat!
 
 ---
 
