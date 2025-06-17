@@ -2,7 +2,8 @@
 <h1 align="center">Hey there, I'm Yerdaulet 👋</h1>
 <p align="center">
   Automation Architect · AI × Low-Code <br>
-  Co-Founder @ Latenode & iCombooster <br>
+  Co-Founder @ iCombooster <br>
+  Automation & AI Solutions Architect @ Latenode <br> 
   Based in Astana (UTC+6)
 </p>
 
