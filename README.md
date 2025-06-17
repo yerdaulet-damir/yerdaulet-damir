@@ -10,7 +10,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://latenode.com"><img src="https://img.shields.io/badge/Platform-Latenode-blue?logo=githubactions&logoColor=white"></a>
-  <a href="https://linkedin.com/in/yerdauletdamir"><img src="https://img.shields.io/badge/Follow-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/yerdaulet-damir"><img src="https://img.shields.io/badge/Follow-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="mailto:ye.damir@latenode.com"><img src="https://img.shields.io/badge/Contact-Email-red?logo=gmail&logoColor=white"></a>
 </p>
 
@@ -40,7 +40,7 @@
 
 | Repo | Stars | What it does |
 |------|-------|--------------|
-| [`awesome-latenode-workflows`](https://github.com/yeerdauleet/awesome-latenode-workflows) | ![Stars](https://img.shields.io/github/stars/latenode/awesome-latenode-workflows?style=social) | Free no-/low-code automation templates |
+| [`awesome-latenode-workflows`](https://github.com/yerdaulet-damir/awesome-latenode-workflows) | ![Stars](https://img.shields.io/github/stars/yerdaulet-damir/awesome-latenode-workflows?style=social) | Free no-/low-code automation templates |
 
 *(Stars auto-update; fork & PR are welcome!)*
 
@@ -66,5 +66,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YerdauletDamir&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=yerdaulet-damir&style=flat-square&color=blue" alt="Profile views"/>
 </p>
