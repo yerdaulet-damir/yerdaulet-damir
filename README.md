@@ -1,70 +1,65 @@
-<!-- Header -->
-<h1 align="center">Hey there, I'm Yerdaulet 👋</h1>
+<!-- Cover -->
+<h1 align="center">Yerdaulet Damir — AI Agents & Automation for GTM/CX</h1>
 <p align="center">
-  Automation Architect · AI × Low-Code <br>
-  Co-Founder @ iCombooster <br>
-  Automation & AI Solutions Architect @ Latenode <br> 
-  Based in Astana (UTC+6)
+  Builder & PM · AI × Low-Code · B2B SaaS<br/>
+  Co-Founder @ iCombooster · Product & Solutions Engineer @ Latenode<br/>
+  Astana (UTC+6)
 </p>
 
-<!-- Badges -->
 <p align="center">
-  <a href="https://latenode.com"><img src="https://img.shields.io/badge/Platform-Latenode-blue?logo=githubactions&logoColor=white"></a>
+  <a href="https://icombooster.com"><img src="https://img.shields.io/badge/Product-iCombooster-black?logo=vercel"></a>
+  <a href="https://latenode.com"><img src="https://img.shields.io/badge/Platform-Latenode-111?logo=github"></a>
   <a href="https://linkedin.com/in/yerdaulet-damir"><img src="https://img.shields.io/badge/Follow-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
-  <a href="mailto:ye.damir@latenode.com"><img src="https://img.shields.io/badge/Contact-Email-red?logo=gmail&logoColor=white"></a>
+  <a href="mailto:ye.damir@latenode.com"><img src="https://img.shields.io/badge/Contact-ye.damir%40latenode.com-red?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🚀 What I do
+## ⚡ What I build (plain English)
 
-- **Turn manual GTM tasks into AI-powered workflows** — no code, no chaos.  
-- Build & scale **Latenode**, a visual automation builder with 400+ AI agents.  
-- Product owner of **iCombooster** → enrich & score Intercom leads in 2 min.  
-- Love “logic first, code if you want” mindset.
+- **icombooster** — *AI Agent for Sales & RevOps*: enriches signups with 40+ datapoints and GPT-4 lead scoring <2s.  
+  **Impact:** +18pp qualified leads, −25% CAC; early adopters report up to +40% MRR.
+- **Latenode** — *n8n/Zapier-class platform* to build AI agents and automations with 500+ integrations.  
+- **Restart Online** — *Duolingo-style app + LMS*. **Impact:** 7k+ leads/month; >80% annual upgrades.
 
----
-
-## 🔧 Current focus
-
-| Area | Stack |
-|------|-------|
-| **AI Agents** | GPT-4o · Claude 3 · Gemini 1.5 |
-| **Low-Code / No-Code** | Latenode · n8n · Supabase |
-| **Programming** | JavaScript/TS · Node · Python · Java |
-| **DevOps** | Docker · GitHub Actions |
+> I turn manual GTM/CX work into reliable AI workflows that teams actually adopt.
 
 ---
 
-## 🌟 Highlight projects
+## 🧩 Core skills
 
-| Repo | Stars | What it does |
-|------|-------|--------------|
-| [`awesome-latenode-workflows`](https://github.com/yerdaulet-damir/awesome-latenode-workflows) | ![Stars](https://img.shields.io/github/stars/yerdaulet-damir/awesome-latenode-workflows?style=social) | Free no-/low-code automation templates |
-
-*(Stars auto-update; fork & PR are welcome!)*
-
----
-
-## ✍️ Latest posts
-
-<!-- LinkedIn RSS feed can be auto-updated via GitHub Action -->
-- **Building AI Agents with zero code** — <i>LinkedIn, May 2025</i>  
-- **12 min per lead? Fixed.** — <i>LinkedIn, Apr 2025</i>  
-- **From manual to magic: launching Intercom scoring in 2 min** — <i>LinkedIn, Mar 2025</i>
-
-*(Follow on LinkedIn for weekly behind-the-build logs.)*
+**AI Agents:** GPT-4o, Claude 3, Gemini 1.5 · eval harnesses · guardrails  
+**Automations:** Latenode, n8n · webhooks · OAuth2 · 3rd-party APIs  
+**Backend/Infra:** FastAPI, Node/TS, PostgreSQL · Docker · GitHub Actions  
+**Product/Growth:** PLG funnels, PostHog analytics, A/B tests, UTM/cohorts  
+**Ecosystem GTM:** Open-source/GitHub presence → organic discovery & SEO
 
 ---
 
-## 🤝 How to reach me
+## 🎯 Quick links (demos & templates)
 
-- Open an **Issue** or **Discussion** in any repo.  
-- DM on **LinkedIn**.  
-- Or just email **ye.damir@latenode.com** — always up for AI & automation chat!
+- **AI Sales Agent (icombooster) demo** → enrichment + scoring in minutes  
+- **Latenode agent templates** → ready-to-use GTM/CX workflows  
+- **Playbooks** → [Awesome SaaS Fast Stack](https://github.com/yerdaulet-damir/awesome-saas-fast-stack) · [Homepage Playbook](https://github.com/yerdaulet-damir/homepage-playbook)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yerdaulet-damir&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+## 🌟 Highlight repos
+
+| Repo | What it does |
+|---|---|
+| [`awesome-saas-fast-stack`](https://github.com/yerdaulet-damir/awesome-saas-fast-stack) | Opinionated starter for AI-SaaS: auth, billing, analytics, evals, CI/CD |
+| [`homepage-playbook`](https://github.com/yerdaulet-damir/homepage-playbook) | Founder/PM homepage templates (clear value prop, CTA, SEO, analytics) |
+| [`awesome-latenode-workflows`](https://github.com/yerdaulet-damir/awesome-latenode-workflows) | Free Latenode/no-code automation templates for GTM & CX |
+
+---
+
+## 📈 Recent posts
+- *Building AI Agents with zero code* — LinkedIn (May 2025)  
+- *12 min per lead? Fixed.* — LinkedIn (Apr 2025)  
+- *From manual to magic: Intercom scoring in 2 min* — LinkedIn (Mar 2025)
+
+---
+
+## 🤝 Contact
+Open an **Issue** or **Discussion**, DM on **LinkedIn**, or email **ye.damir@latenode.com**.
