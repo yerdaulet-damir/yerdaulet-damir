@@ -15,7 +15,7 @@
 
 ---
 
-## ⚡ What I build (plain English)
+## ⚡ What I build
 
 - **icombooster** — *AI Agent for Sales & RevOps*: enriches signups with 40+ datapoints and GPT-4 lead scoring <2s.  
   **Impact:** +18pp qualified leads, −25% CAC; early adopters report up to +40% MRR.
@@ -36,7 +36,7 @@
 
 ---
 
-## 🎯 Quick links (demos & templates)
+## 🎯 Quick links
 
 - **AI Sales Agent (icombooster) demo** → enrichment + scoring in minutes  
 - **Latenode agent templates** → ready-to-use GTM/CX workflows  
