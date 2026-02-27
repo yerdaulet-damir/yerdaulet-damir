@@ -22,7 +22,7 @@ I'm a Full-Stack & AI Product Engineer working at the intersection of business, 
 
 - 🎒 **[crackthecv](https://github.com/yerdaulet-damir/crackthecv)** — AI-powered CV builder and optimizer (like Cursor, but for resumes)
 - 🤖 **[autodoc](https://github.com/yerdaulet-damir/autodoc)** — Automated and AI-powered documentation generation
-- 🗣️ **[transcribe-whisper](https://github.com/yerdaulet-damir/transcribe-whisper)** — High accuracy audio transcription using Whisper
+- 🗣️ **[transcribe-whisper](https://github.com/yerdaulet-damir/transcribe-whisper)** — High accuracy audio transcription using Whisper ( i ain't paying for transcriber services)
 - 🚀 **[icombooster](https://github.com/yerdaulet-damir/icombooster)** — AI Sales Agent for CRMs (Intercom, HubSpot, GoHighLevel). Enriches signups with 40+ data points and scores leads with GPT-4 in <2s. [Product Hunt](https://www.producthunt.com/products/icombooster)
 - 📦 **[awesome-saas-fast-stack](https://github.com/yerdaulet-damir/awesome-saas-fast-stack)** — Opinionated starter for AI-SaaS (auth, billing, analytics, CI/CD)
 - 🎨 **[homepage-playbook](https://github.com/yerdaulet-damir/homepage-playbook)** — Founder/PM homepage templates outlining value prop, CTAs, and SEO
