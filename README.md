@@ -20,7 +20,8 @@ I'm a Full-Stack & AI Product Engineer working at the intersection of business, 
 
 ### Projects & Repositories
 
-- 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)** — Open-source Loom alternative (Next.js 15). Record screen + camera, copy links, and send video pitches instantly. [reechy.cam](https://reechy.cam)
+- 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)** — Open-source Loom killer built on Next.js 15. Record screen, stream camera, and send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam)
+- 🧪 **[openeval](https://github.com/edmontecristo/openeval)** — AI-First Agent Evaluation Framework. Stop guessing if your LLM pipelines work. Test, score, and benchmark your autonomous agents and RAG orchestrators like real software in CI/CD.
 - 🎒 **[crackthecv](https://github.com/yerdaulet-damir/crackthecv)** — AI-powered CV builder and optimizer (like Cursor, but for resumes)
 - 🤖 **[autodoc](https://github.com/yerdaulet-damir/autodoc)** — Automated and AI-powered documentation generation
 - 🗣️ **[transcribe-whisper](https://github.com/yerdaulet-damir/transcribe-whisper)** — High accuracy audio transcription using Whisper ( i ain't paying for transcriber services)
