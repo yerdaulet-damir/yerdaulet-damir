@@ -34,6 +34,8 @@ I'm a Full-Stack & AI Product Engineer working at the intersection of business, 
 ### Stats:
 <p align="left"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yerdaulet-damir&theme=radical&hide_border=true" alt="Yerdaulet Streak" />
+</p>
+
 ### Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/yerdaulet-damir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
