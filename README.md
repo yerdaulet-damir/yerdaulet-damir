@@ -47,6 +47,11 @@ I'm a Full-Stack & AI Product Engineer working at the intersection of business, 
 ### Projects & Repositories
 
 - 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)** — Open-source Loom killer built on Next.js 15. Record screen, stream camera, and send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam)
+- 🧠 [Sheepper](https://sheepper.link/yerdauletdev) — Cursor for knowledge. 
+Sheepper lets anyone publish articles, guides, and playbooks with AI — 
+at one link they fully own. Replacing Telegram channels, Notion exports, 
+and Linktree for knowledge creators with one AI-built space. 
+[sheepper.link](https://sheepper.link/)
 - 💬 **[langgraph-sales-agent](https://github.com/yerdaulet-damir/langgraph-sales-agent)** — The sales agent architecture I keep shipping for clients. Multi-tenant, multi-channel (Telegram, Instagram, WhatsApp). Open-sourcing the kit.
 - 🧪 **[openeval](https://github.com/edmontecristo/openeval)** — AI-First Agent Evaluation Framework. Stop guessing if your LLM pipelines work. Test, score, and benchmark your autonomous agents and RAG orchestrators like real software in CI/CD.
 - 🎒 **[crackthecv](https://github.com/yerdaulet-damir/crackthecv)** — AI-powered CV builder and optimizer (like Cursor, but for resumes)
