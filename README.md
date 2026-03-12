@@ -1,58 +1,86 @@
-<h1 align="center">Sup👋, I'm ED (Yerdaulet)</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=A78BFA&height=180&section=header&text=Yerdaulet%20Damir&fontSize=65&animation=fadeIn&fontAlignY=40" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=hey%2C+I'm+ED+(Yerdaulet);full-stack+AI+engineer;building+agentic+workflows;open+to+wild+problems" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/yerdaulet-damir"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yerdauletdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
 
 ### About
 
-I'm a Full-Stack & AI Product Engineer working at the intersection of business, product, growth, and automation. I build systems and "AI coworkers" — workflows that do real work: integrations, RAG, orchestration, and multimodal pipelines. I think in workflows, constraints, and user adoption, not just code. I've shipped across govtech, enterprise SaaS, edtech, agritech, and early-stage startups. Whether it's building scalable platforms, deploying computer vision, or messing with IoT and hardware — I've led small teams, owned systems end-to-end, and delivered under real pressure. I also teach AI through curricula, labs, and workshops. Based in Astana. 20. Open to interesting problems.
+Full-stack AI engineer and applied researcher living at the intersection of product, backend, and automation. I also genuinely enjoy GTM, growth loops, and viral acquisition — not just the infra side.
 
-### I code with:
+I build agents, retrieval systems, multi-agent orchestration, multimodal pipelines, growth automations, anything. Worked deep in low-code/no-code AI agent platforms — both building them and helping others build on top of them.
+
+Shipped end-to-end across B2B, B2C, and B2G — govtech, enterprise SaaS, edtech, agritech, and large-scale venue ops (including hands-on network infra and hardware integration). Any stack, any layer, any domain — I pick it up fast and go deep.
+
+GitHub is only part of the picture — a lot of my work lives in private repos, client environments, or academic settings.
+
+On the side: AI education — curricula, labs, workshops. Mentored high-schoolers, early-career devs, and people switching from zero tech background into GenAI and prompt engineering. Several mentees already working in tech while still in school.
+
+Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangGraph, you name it) — at 3 a.m., turning it into production things instead of just vibes.
+
+> Simplest thing that scales wins.
+
+Astana · 20 · Open to hard problems.
+
+---
+
+### I code with
+
 <p align="left">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-🤖 AI & Automation
+**🤖 AI & Automation**
 <p align="left">
-<img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/-Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
-<img src="https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/-LlamaIndex-8B5CF6?style=flat-square&logo=llama&logoColor=white" />
-<img src="https://img.shields.io/badge/-CrewAI-FF6B6B?style=flat-square&logo=ai&logoColor=white" />
-<img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-<img src="https://img.shields.io/badge/-Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
 </p>
 
-🛠 Infrastructure & Tools
+**🛠 Infra & Tools**
 <p align="left">
-<img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
-### Projects & Repositories
-
+---
+### Projects
 - 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)** — Open-source Loom killer built on Next.js 15. Record screen, stream camera, and send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam)
 - 🧠 [Sheepper](https://sheepper.link/yerdauletdev) — Cursor for knowledge. 
 Sheepper lets anyone publish articles, guides, and playbooks with AI — 
@@ -73,13 +101,14 @@ and Linktree for knowledge creators with one AI-built space.
 - 👁️ **[vision](https://github.com/yerdaulet-damir/vision)** — Facial recognition attendance & time tracking system (FastAPI + OpenCV + PostgreSQL). Deployed across 3 orgs, cut attendance fraud and reduced ops budgets by 20%
 
 
-### Stats:
-<p align="left"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yerdaulet-damir&theme=radical&hide_border=true" alt="Yerdaulet Streak" />
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yerdaulet-damir&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerdaulet-damir&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-### Connect with me:
-<p align="left">
-  <a href="https://linkedin.com/in/yerdaulet-damir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:yerdauletdev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
