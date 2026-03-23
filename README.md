@@ -100,6 +100,7 @@ and Linktree for knowledge creators with one AI-built space.
 - ⚙️ **[awesome-latenode-workflows](https://github.com/yerdaulet-damir/awesome-latenode-workflows)** — Free Latenode no-code automation templates for GTM & CX
 - 👁️ **[vision](https://github.com/yerdaulet-damir/vision)** — Facial recognition attendance & time tracking system (FastAPI + OpenCV + PostgreSQL). Deployed across 3 orgs, cut attendance fraud and reduced ops budgets by 20%
 
+![Netflix](https://coolreadme.xyz/api/netflix-card?title=Supernatural&style=hero&user=yerdaulet-damir&synopsis=dark%20fantasy%20television%20series%20(2005%E2%80%932020)%20that%20follows%20brothers%20Sam%20and%20Dean%20Winchester%20as%20they%20travel%20across%20the%20United%20States%20hunting%20supernatural%20beings&cast=Jensen%20Ackles&match=98&year=2025&season=S2&episode=E13&duration=48%3A00&progress=52&img=https%3A%2F%2Fstatic0.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fjensen-ackles-as-dean-winchester-and-jared-padalecki-as-sam-winchester-in-a-promo-for-supernatural.jpg%3Fw%3D1200%26h%3D675%26fit%3Dcrop&link=https%3A%2F%2Fsupernatural-spn.net%2F)
 
 ### Stats
 
@@ -112,3 +113,4 @@ and Linktree for knowledge creators with one AI-built space.
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
