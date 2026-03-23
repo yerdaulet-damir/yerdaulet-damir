@@ -81,6 +81,8 @@ Astana · 20 · Open to hard problems.
 
 ---
 ### Projects
+- ✨ **[coolreadme.xyz](https://coolreadme.xyz)** — The fastest way to generate beautiful, dynamic cards for your GitHub profile. Minimal, zero-sign up, just raw aesthetic components.
+- 📚 **[awesome-github-readme](https://github.com/yerdaulet-damir/awesome-github-readme)** — The definitive, viral collection of the best README tools, generators, stats, and animations on GitHub. Add yours!
 - 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)** — Open-source Loom killer built on Next.js 15. Record screen, stream camera, and send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam)
 - 🧠 [Sheepper](https://sheepper.link/yerdauletdev) — Cursor for knowledge. 
 Sheepper lets anyone publish articles, guides, and playbooks with AI — 
@@ -99,18 +101,16 @@ and Linktree for knowledge creators with one AI-built space.
 - 🎨 **[homepage-playbook](https://github.com/yerdaulet-damir/homepage-playbook)** — Founder/PM homepage templates outlining value prop, CTAs, and SEO
 - ⚙️ **[awesome-latenode-workflows](https://github.com/yerdaulet-damir/awesome-latenode-workflows)** — Free Latenode no-code automation templates for GTM & CX
 - 👁️ **[vision](https://github.com/yerdaulet-damir/vision)** — Facial recognition attendance & time tracking system (FastAPI + OpenCV + PostgreSQL). Deployed across 3 orgs, cut attendance fraud and reduced ops budgets by 20%
-
-![Netflix](https://coolreadme.xyz/api/netflix-card?title=Supernatural&style=hero&user=yerdaulet-damir&synopsis=dark%20fantasy%20television%20series%20(2005%E2%80%932020)%20that%20follows%20brothers%20Sam%20and%20Dean%20Winchester%20as%20they%20travel%20across%20the%20United%20States%20hunting%20supernatural%20beings&cast=Jensen%20Ackles&match=98&year=2025&season=S2&episode=E13&duration=48%3A00&progress=52&img=https%3A%2F%2Fstatic0.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fjensen-ackles-as-dean-winchester-and-jared-padalecki-as-sam-winchester-in-a-promo-for-supernatural.jpg%3Fw%3D1200%26h%3D675%26fit%3Dcrop&link=https%3A%2F%2Fsupernatural-spn.net%2F)
-
 ### Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yerdaulet-damir&theme=radical&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yerdaulet-damir&layout=compact&theme=radical&hide_border=true" />
-</p>
+![Cat Streak Card](https://coolreadme.xyz/api/cat-card?user=yerdaulet-damir)
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
+### Hobbies
+
+![Netflix](https://coolreadme.xyz/api/netflix-card?title=Supernatural&style=hero&user=yerdaulet-damir&synopsis=dark%20fantasy%20television%20series%20(2005%E2%80%932020)%20that%20follows%20brothers%20Sam%20and%20Dean%20Winchester%20as%20they%20travel%20across%20the%20United%20States%20hunting%20supernatural%20beings&cast=Jensen%20Ackles&match=98&year=2025&season=S2&episode=E13&duration=48%3A00&progress=52&img=https%3A%2F%2Fstatic0.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fjensen-ackles-as-dean-winchester-and-jared-padalecki-as-sam-winchester-in-a-promo-for-supernatural.jpg%3Fw%3D1200%26h%3D675%26fit%3Dcrop&link=https%3A%2F%2Fsupernatural-spn.net%2F)
+
 
