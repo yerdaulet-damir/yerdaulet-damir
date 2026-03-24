@@ -83,7 +83,15 @@ Astana · 20 · Open to hard problems.
 ### Projects
 - ✨ **[coolreadme.xyz](https://coolreadme.xyz)** — The fastest way to generate beautiful, dynamic cards for your GitHub profile. Minimal, zero-sign up, just raw aesthetic components.
 - 📚 **[awesome-github-readme](https://github.com/yerdaulet-damir/awesome-github-readme)** — The definitive, viral collection of the best README tools, generators, stats, and animations on GitHub. Add yours!
+  
+[![X (Twitter)](https://coolreadme.xyz/api/x-card?user=yerdaulet-damir&handle=edmontecristox&content=your%20github%20stats%20have%20a%20cat%20form%0Amine%20got%20a%20crown%20somehow%20-%3E%20https%3A%2F%2Fcoolreadme.xyz%2Fgenerator%3Ftypecat-card%3D%26type%3Dcat-card%26user%3Dyerdaulet-damir%0A%0Areplace%20my%20username%20with%20yours%0A%0A%23github%20%23buildinpublic&style=compact&theme=light&accent=%231d9bf0&verified=true&replies=1.2k&retweets=850&likes=999K&views=1.5M&bookmarks=456&time=11%3A42%20AM%20%C2%B7%20Oct%2024%2C%202024&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81626048%3Fv%3D4&link=https%3A%2F%2Fx.com%2Fedmontecristox%2Fstatus%2F2036144184185512387%3Fs%3D20)](https://x.com/edmontecristox/status/2036144184185512387?s=20)
+
+![Cat Streak Card](https://coolreadme.xyz/api/cat-card?user=yerdaulet-damir)
+
 - 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)** — Open-source Loom killer built on Next.js 15. Record screen, stream camera, and send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam)
+  
+[![Instagram](https://coolreadme.xyz/api/instagram-card?title=Reechy&sub=Your%20video.%20Their%20best%20first%20impression%20of%20you.%20&user=yerdaulet-damir&img=https%3A%2F%2Freechy.cam%2F_next%2Fimage%3Furl%3D%252Ffeature_uncluttered_page.webp%26w%3D1920%26q%3D75&skills=TypeScript%2CReact%2CGo%2CRust)](https://reechy.cam/)
+
 - 🧠 [Sheepper](https://sheepper.link/yerdauletdev) — Cursor for knowledge. 
 Sheepper lets anyone publish articles, guides, and playbooks with AI — 
 at one link they fully own. Replacing Telegram channels, Notion exports, 
@@ -103,14 +111,11 @@ and Linktree for knowledge creators with one AI-built space.
 - 👁️ **[vision](https://github.com/yerdaulet-damir/vision)** — Facial recognition attendance & time tracking system (FastAPI + OpenCV + PostgreSQL). Deployed across 3 orgs, cut attendance fraud and reduced ops budgets by 20%
 ### Stats
 
-![Cat Streak Card](https://coolreadme.xyz/api/cat-card?user=yerdaulet-damir)
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ### Hobbies
-[![Instagram](https://coolreadme.xyz/api/instagram-card?title=Reechy&sub=Your%20video.%20Their%20best%20first%20impression%20of%20you.%20&user=yerdaulet-damir&img=https%3A%2F%2Freechy.cam%2F_next%2Fimage%3Furl%3D%252Ffeature_uncluttered_page.webp%26w%3D1920%26q%3D75&skills=TypeScript%2CReact%2CGo%2CRust)](https://reechy.cam/)
 
 ![Netflix](https://coolreadme.xyz/api/netflix-card?title=Supernatural&style=hero&user=yerdaulet-damir&synopsis=dark%20fantasy%20television%20series%20(2005%E2%80%932020)%20that%20follows%20brothers%20Sam%20and%20Dean%20Winchester%20as%20they%20travel%20across%20the%20United%20States%20hunting%20supernatural%20beings&cast=Jensen%20Ackles&match=98&year=2025&season=S2&episode=E13&duration=48%3A00&progress=52&img=https%3A%2F%2Fstatic0.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fjensen-ackles-as-dean-winchester-and-jared-padalecki-as-sam-winchester-in-a-promo-for-supernatural.jpg%3Fw%3D1200%26h%3D675%26fit%3Dcrop&link=https%3A%2F%2Fsupernatural-spn.net%2F)
 
