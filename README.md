@@ -85,7 +85,7 @@ Astana · 20 · Open to hard problems.
 
 - 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)** — Open-source Loom killer built on Next.js 15. Record screen, stream camera, and send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam)
   
-[![Instagram](https://coolreadme.xyz/api/instagram-card?title=Reechy&sub=Your%20video.%20Their%20best%20first%20impression%20of%20you.%20&user=yerdaulet-damir&img=https%3A%2F%2Freechy.cam%2F_next%2Fimage%3Furl%3D%252Ffeature_uncluttered_page.webp%26w%3D1920%26q%3D75&skills=TypeScript%2CReact%2CGo%2CRust)](https://reechy.cam/)
+[![Instagram](https://coolreadme.xyz/api/instagram-card?title=Screen%20%26%20camera%20recorder%20with%20auto-subtitles%2C%20video%20editor%2C%20page%20builder%2C%20analytics&sub=&user=yerdaulet-damir&img=https%3A%2F%2Freechy.cam%2Fmedia%2Fscreenshot-gallery.png&skills=TypeScript%2CReact%2CGo%2CRust)](https://reechy.cam)
 
 - 🧠 [Sheepper](https://sheepper.link/yerdauletdev) — Cursor for knowledge. 
 Sheepper lets anyone publish articles, guides, and playbooks with AI — 
