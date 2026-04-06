@@ -81,7 +81,7 @@ Astana · 20 · Open to hard problems.
 ### Projects
 - ✨ **[coolreadme.xyz](https://coolreadme.xyz)** — The fastest way to generate beautiful, dynamic cards for your GitHub profile. Minimal, zero-sign up, just raw aesthetic components.
 - 📚 **[awesome-github-readme](https://github.com/yerdaulet-damir/awesome-github-readme)** — The definitive, viral collection of the best README tools, generators, stats, and animations on GitHub. Add yours!
-  ![Cat Streak Card](https://coolreadme.xyz/api/cat-card?user=yerdaulet-damir)
+  ![Owl Streak](https://coolreadme.xyz/api/owl-card?user=yerdaulet-damir)
 
 - 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)** — Open-source Loom killer built on Next.js 15. Record screen, stream camera, and send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam)
   
