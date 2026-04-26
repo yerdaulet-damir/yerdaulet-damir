@@ -81,7 +81,7 @@ Astana · 20 · Open to hard problems.
 ### Projects
 - ✨ **[coolreadme.xyz](https://coolreadme.xyz)** — The fastest way to generate beautiful, dynamic cards for your GitHub profile. Minimal, zero-sign up, just raw aesthetic components.
 - 📚 **[awesome-github-readme](https://github.com/yerdaulet-damir/awesome-github-readme)** — The definitive, viral collection of the best README tools, generators, stats, and animations on GitHub. Add yours!
-  ![Owl Streak](https://coolreadme.xyz/api/owl-card?user=yerdaulet-damir)
+  ![Owl Streak](https://coolreadme.xyz/api/owl-card?user=yerdaulet-damir&streak=100&longest=15&total=800)
 
 - 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)** — Open-source Loom killer built on Next.js 15. Record screen, stream camera, and send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam)
   
@@ -106,8 +106,7 @@ and Linktree for knowledge creators with one AI-built space.
 - 👁️ **[vision](https://github.com/yerdaulet-damir/vision)** — Facial recognition attendance & time tracking system (FastAPI + OpenCV + PostgreSQL). Deployed across 3 orgs, cut attendance fraud and reduced ops budgets by 20%
 ### Stats
 
-![Dog Streak](https://coolreadme.xyz/api/dog-card?user=yerdaulet-damir&style=compact&hideTotal=true&breed=god)
-
+![Dog Streak](https://coolreadme.xyz/api/dog-card?user=yerdaulet-damir&streak=100&longest=15&total=800)
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
