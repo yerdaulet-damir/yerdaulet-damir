@@ -1,8 +1,5 @@
 [![X (Twitter)](https://coolreadme.xyz/api/x-card?user=yerdaulet-damir&handle=edmontecristox&content=your%20github%20stats%20have%20a%20cat%20form%0Amine%20got%20a%20crown%20somehow%20-%3E%20https%3A%2F%2Fcoolreadme.xyz%2Fgenerator%3Ftypecat-card%3D%26type%3Dcat-card%26user%3Dyerdaulet-damir%0A%0Areplace%20my%20username%20with%20yours%0A%0A%23github%20%23buildinpublic&style=compact&theme=light&accent=%231d9bf0&verified=true&replies=1.2k&retweets=850&likes=999K&views=1.5M&bookmarks=456&time=11%3A42%20AM%20%C2%B7%20Oct%2024%2C%202024&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81626048%3Fv%3D4&link=https%3A%2F%2Fcoolreadme.xyz%2Fgenerator%3Ftypecat-card%3D%26type%3Dcat-card%26user%3Dyerdaulet-damir)](https://coolreadme.xyz/generator?typecat-card=&type=cat-card&user=yerdaulet-damir)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=hey%2C+I'm+ED+(Yerdaulet);full-stack+AI+engineer;building+agentic+workflows;open+to+wild+problems" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yerdaulet-damir"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
