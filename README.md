@@ -1,31 +1,18 @@
 [![X (Twitter)](https://coolreadme.xyz/api/x-card?user=yerdaulet-damir&handle=edmontecristox&content=your%20github%20stats%20have%20a%20cat%20form%0Amine%20got%20a%20crown%20somehow%20-%3E%20https%3A%2F%2Fcoolreadme.xyz%2Fgenerator%3Ftypecat-card%3D%26type%3Dcat-card%26user%3Dyerdaulet-damir%0A%0Areplace%20my%20username%20with%20yours%0A%0A%23github%20%23buildinpublic&style=compact&theme=light&accent=%231d9bf0&verified=true&replies=1.2k&retweets=850&likes=999K&views=1.5M&bookmarks=456&time=11%3A42%20AM%20%C2%B7%20Oct%2024%2C%202024&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81626048%3Fv%3D4&link=https%3A%2F%2Fcoolreadme.xyz%2Fgenerator%3Ftypecat-card%3D%26type%3Dcat-card%26user%3Dyerdaulet-damir)](https://coolreadme.xyz/generator?typecat-card=&type=cat-card&user=yerdaulet-damir)
 
-
-<p align="center">
-  <a href="https://linkedin.com/in/yerdaulet-damir"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yerdauletdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-</p>
-
 ---
 
 ### About
 
 Full-stack AI engineer and applied researcher living at the intersection of product, backend, and automation. I also genuinely enjoy GTM, growth loops, and viral acquisition — not just the infra side.
-
 I build agents, retrieval systems, multi-agent orchestration, multimodal pipelines, growth automations, anything. Worked deep in low-code/no-code AI agent platforms — both building them and helping others build on top of them.
-
-Shipped end-to-end across B2B, B2C, and B2G — govtech, enterprise SaaS, edtech, agritech, and large-scale venue ops (including hands-on network infra and hardware integration). Any stack, any layer, any domain — I pick it up fast and go deep.
 
 GitHub is only part of the picture — a lot of my work lives in private repos, client environments, or academic settings.
 
 On the side: AI education — curricula, labs, workshops. Mentored high-schoolers, early-career devs, and people switching from zero tech background into GenAI and prompt engineering. Several mentees already working in tech while still in school.
 
 Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangGraph, you name it) — at 3 a.m., turning it into production things instead of just vibes.
-
 > Simplest thing that scales wins.
-
-Astana · 20 · Open to hard problems.
-
 ---
 
 ### I code with
