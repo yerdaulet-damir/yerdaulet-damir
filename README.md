@@ -53,6 +53,7 @@ Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangG
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
+
 ---
 ### Projects
 - ✨ **[coolreadme.xyz](https://coolreadme.xyz)** — The fastest way to generate beautiful, dynamic cards for your GitHub profile. Minimal, zero-sign up, just raw aesthetic components.
