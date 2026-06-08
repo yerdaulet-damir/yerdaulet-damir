@@ -2,8 +2,6 @@
 
 ---
 
-### About
-
 Full-stack AI engineer and applied researcher living at the intersection of product, backend, and automation. I also genuinely enjoy GTM, growth loops, and viral acquisition — not just the infra side.
 I build agents, retrieval systems, multi-agent orchestration, multimodal pipelines, growth automations, anything. Worked deep in low-code/no-code AI agent platforms — both building them and helping others build on top of them.
 
@@ -14,8 +12,6 @@ On the side: AI education — curricula, labs, workshops. Mentored high-schooler
 Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangGraph, you name it) — at 3 a.m., turning it into production things instead of just vibes.
 > Simplest thing that scales wins.
 ---
-
-### I code with
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -32,7 +28,6 @@ Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangG
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-**🤖 AI & Automation**
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
@@ -44,8 +39,6 @@ Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangG
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
 </p>
-
-**🛠 Infra & Tools**
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -60,7 +53,6 @@ Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangG
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
-
 ---
 ### Projects
 - ✨ **[coolreadme.xyz](https://coolreadme.xyz)** — The fastest way to generate beautiful, dynamic cards for your GitHub profile. Minimal, zero-sign up, just raw aesthetic components.
