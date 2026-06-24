@@ -1,4 +1,7 @@
+<p align="center">
+  
 [![X (Twitter)](https://coolreadme.xyz/api/x-card?user=yerdaulet-damir&handle=edmontecristox&content=your%20github%20stats%20have%20a%20cat%20form%0Amine%20got%20a%20crown%20somehow%20-%3E%20https%3A%2F%2Fcoolreadme.xyz%2Fgenerator%3Ftypecat-card%3D%26type%3Dcat-card%26user%3Dyerdaulet-damir%0A%0Areplace%20my%20username%20with%20yours%0A%0A%23github%20%23buildinpublic&style=compact&theme=light&accent=%231d9bf0&verified=true&replies=1.2k&retweets=850&likes=999K&views=1.5M&bookmarks=456&time=11%3A42%20AM%20%C2%B7%20Oct%2024%2C%202024&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81626048%3Fv%3D4&link=https%3A%2F%2Fcoolreadme.xyz%2Fgenerator%3Ftypecat-card%3D%26type%3Dcat-card%26user%3Dyerdaulet-damir)](https://coolreadme.xyz/generator?typecat-card=&type=cat-card&user=yerdaulet-damir)
+</p>
 
 ---
 
@@ -13,7 +16,7 @@ Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangG
 > Simplest thing that scales wins.
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -26,9 +29,7 @@ Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangG
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-</p>
 
-<p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
@@ -38,8 +39,7 @@ Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangG
   <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
-</p>
-<p align="left">
+
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
@@ -71,7 +71,6 @@ at one link they fully own. Replacing Telegram channels, Notion exports,
 and Linktree for knowledge creators with one AI-built space. 
 [sheepper.link](https://sheepper.link/)
 - 💬 **[langgraph-sales-agent](https://github.com/yerdaulet-damir/langgraph-sales-agent)** — The sales agent architecture I keep shipping for clients. Multi-tenant, multi-channel (Telegram, Instagram, WhatsApp). Open-sourcing the kit.
-- 🧪 **[openeval](https://github.com/edmontecristo/openeval)** — AI-First Agent Evaluation Framework. Stop guessing if your LLM pipelines work. Test, score, and benchmark your autonomous agents and RAG orchestrators like real software in CI/CD.
 - 🎒 **[crackthecv](https://github.com/yerdaulet-damir/crackthecv)** — AI-powered CV builder and optimizer (like Cursor, but for resumes)
 - 🎓 admission platform — I built the "LinkedIn for University Admissions." A full-stack, enterprise-grade social network for applicants and universities. I got into HK/UAE/CH/US on full-ride merit-based scholarships and helped 100+ students launch IT careers/projects/ideas—then I scaled that expertise into software. Running an agency or EdTech? Hit me up. I do consulting and build custom admissions infrastructure.
 - 🗣️ **[transcribe-whisper](https://github.com/yerdaulet-damir/transcribe-whisper)** — High accuracy audio transcription using Whisper ( i ain't paying for transcriber services)
@@ -79,7 +78,7 @@ and Linktree for knowledge creators with one AI-built space.
 - 🪐 **[openquiz](https://github.com/yerdaulet-damir/openquiz)** — 100% free, open-source alternative to Quizlet and Anki. Generate SAT and language vocab quizzes instantly using ChatGPT or Claude JSON exports. Originally built for my little bros who were prepping for exams but couldn't afford outragous subscriptions. Paste JSON vocab lists and generate instant flashcards.
 - 📦 **[awesome-saas-fast-stack](https://github.com/yerdaulet-damir/awesome-saas-fast-stack)** — Opinionated starter for AI-SaaS (auth, billing, analytics, CI/CD)
 - ⚙️ **[awesome-latenode-workflows](https://github.com/yerdaulet-damir/awesome-latenode-workflows)** — Free Latenode no-code automation templates for GTM & CX
-- 👁️ **[vision](https://github.com/yerdaulet-damir/vision)** — Facial recognition attendance & time tracking system (FastAPI + OpenCV + PostgreSQL). Deployed across 3 orgs, cut attendance fraud and reduced ops budgets by 20%
+
 - 
 ### Stats
 
@@ -90,6 +89,6 @@ and Linktree for knowledge creators with one AI-built space.
 
 ### Hobbies
 
-![Netflix](https://coolreadme.xyz/api/netflix-card?title=Supernatural&style=hero&user=yerdaulet-damir&synopsis=dark%20fantasy%20television%20series%20(2005%E2%80%932020)%20that%20follows%20brothers%20Sam%20and%20Dean%20Winchester%20as%20they%20travel%20across%20the%20United%20States%20hunting%20supernatural%20beings&cast=Jensen%20Ackles&match=98&year=2025&season=S2&episode=E13&duration=48%3A00&progress=52&img=https%3A%2F%2Fstatic0.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fjensen-ackles-as-dean-winchester-and-jared-padalecki-as-sam-winchester-in-a-promo-for-supernatural.jpg%3Fw%3D1200%26h%3D675%26fit%3Dcrop&link=https%3A%2F%2Fsupernatural-spn.net%2F)
+![Netflix](https://coolreadme.xyz/api/netflix-card?title=Supernatural&style=hero&user=yerdaulet-damir&synopsis=dark%20fantasy%20television%20series%20(2005%E2%80%932020)%20that%20follows%20brothers%20Sam%20and%20Dean%20Winchester%20as%20they%20travel%20across%20the%20United%20States%20hunting%20supernatural%20beings&cast=Jensen%20Ackles&match=98&year=2025&season=S9&episode=E10&duration=48%3A00&progress=52&img=https%3A%2F%2Fstatic0.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fjensen-ackles-as-dean-winchester-and-jared-padalecki-as-sam-winchester-in-a-promo-for-supernatural.jpg%3Fw%3D1200%26h%3D675%26fit%3Dcrop&link=https%3A%2F%2Fsupernatural-spn.net%2F)
 
 
