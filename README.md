@@ -16,6 +16,45 @@ Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangG
 > Simplest thing that scales wins.
 ---
 
+### Projects
+
+**🤖 AI agents & bot tooling**
+
+- 💬 **[langgraph-sales-agent](https://github.com/yerdaulet-damir/langgraph-sales-agent)** : the sales agent architecture I keep shipping for clients. Multi-tenant, multi-channel (Telegram, Instagram, WhatsApp). Open-sourcing the kit. ![Stars](https://img.shields.io/github/stars/yerdaulet-damir/langgraph-sales-agent?style=flat&color=yellow)
+  `Python` · `LangGraph` · `Qdrant` · `Docker`
+- 🤖 **[tgbuilder](https://github.com/yerdaulet-damir/tgbuilder)**: describe a Telegram bot in plain language; an AI agent plans, generates, deploys and auto-fixes a working bot in minutes. Self-hostable.
+  `TypeScript` · `grammY` · `Hono`
+- 🧩 **[tgx](https://github.com/yerdaulet-damir/tgx)**: build Telegram bots fast, less code, full control. State, menus, buttons, Stars payments built in. ![npm](https://img.shields.io/npm/dt/@tgxjs/core?label=downloads&color=CB3837) ![npm](https://img.shields.io/npm/dt/teleping?label=downloads&color=CB3837)
+  `TypeScript` · `grammY` 
+- 🚀 **[icombooster](https://github.com/yerdaulet-damir/icombooster)**: AI sales agent for CRMs (Intercom, HubSpot, GoHighLevel). Enriches signups with 40+ data points and scores leads in under 2s. [Product Hunt](https://www.producthunt.com/products/icombooster)
+  `Next.js` · `FastAPI` · `GPT-4`
+
+**🛠️ Dev tools & the solo-AI stack**
+
+- 🧠 **[awesome-solo-ai](https://github.com/yerdaulet-damir/awesome-solo-ai)** (⭐8): curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs. The one-person-company AI stack you feed to Claude Code.
+- 📐 **[vibe-coding-rules](https://github.com/yerdaulet-damir/vibe-coding-rules)**: production architecture rules for vibe coding with Claude Code & Cursor (FastAPI, Next.js 15, Go 1.22+). ![npm](https://img.shields.io/npm/dt/@aimyerdaulet/vibecodex?label=downloads&color=CB3837)
+- 🔍 **[json-vision](https://open-vsx.org/extension/aimyerdaulet/json-vision)**: VS Code extension, shipped to Open VSX.
+  `TypeScript` · `VS Code`
+  ![Installs](https://img.shields.io/open-vsx/dt/aimyerdaulet/json-vision?label=installs&color=8B5CF6)
+- ✨ **[coolreadme.xyz](https://coolreadme.xyz)**: the fastest way to generate beautiful, dynamic cards for your GitHub profile. Minimal, zero sign-up, raw aesthetic components.
+  `TypeScript` · `Next.js`
+- 📚 **[awesome-github-readme](https://github.com/yerdaulet-damir/awesome-github-readme)** (⭐15): the definitive, viral collection of the best README tools, generators, stats, and animations. Add yours!
+
+  ![Owl Streak](https://coolreadme.xyz/api/owl-card?user=yerdaulet-damir&streak=100&longest=15&total=800)
+- 📦 **[awesome-saas-fast-stack](https://github.com/yerdaulet-damir/awesome-saas-fast-stack)**: opinionated starter for AI-SaaS (auth, billing, analytics, CI/CD).
+- ⚙️ **[awesome-latenode-workflows](https://github.com/yerdaulet-damir/awesome-latenode-workflows)**: free Latenode no-code automation templates for GTM & CX.
+
+**🚀 Products**
+
+- 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)**: open-source Loom killer on Next.js 15. Record screen, stream camera, send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam) ![npm](https://img.shields.io/npm/dt/@reechy-tools/recorder?label=downloads&color=CB3837)
+
+  [![Instagram](https://coolreadme.xyz/api/instagram-card?title=Screen%20%26%20camera%20recorder%20with%20auto-subtitles%2C%20video%20editor%2C%20page%20builder%2C%20analytics&sub=&user=yerdaulet-damir&img=https%3A%2F%2Freechy.cam%2Fmedia%2Fscreenshot-gallery.png&skills=TypeScript%2CReact%2CGo%2CRust)](https://reechy.cam)
+  `TypeScript` · `React` · `Supabase`
+- 🧠 **[Sheepper](https://sheepper.link/)**: Cursor for knowledge. Publish articles, guides, playbooks with AI at one link you fully own. Replaces Telegram channels, Notion exports, and Linktree for knowledge creators.
+- 🎒 **[crackthecv](https://github.com/yerdaulet-damir/crackthecv)**: AI CV builder and optimizer (like Cursor, but for resumes).
+- 🪐 **[openquiz](https://github.com/yerdaulet-damir/openquiz)**: 100% free, open-source Quizlet/Anki alt. Generate SAT and vocab quizzes from ChatGPT or Claude JSON. Built it for my little bros who couldn't afford the subscriptions.
+- 🎓 **admission platform**: the "LinkedIn for University Admissions." Full-stack social network for applicants and universities. Got into HK/UAE/CH/US on full-ride scholarships and helped 100+ students launch IT careers, then scaled that into software. Running an agency or EdTech? Hit me up.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -55,37 +94,6 @@ Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangG
 </p>
 
 ---
-### Projects
-- ✨ **[coolreadme.xyz](https://coolreadme.xyz)** — The fastest way to generate beautiful, dynamic cards for your GitHub profile. Minimal, zero-sign up, just raw aesthetic components.
-- 📚 **[awesome-github-readme](https://github.com/yerdaulet-damir/awesome-github-readme)** — The definitive, viral collection of the best README tools, generators, stats, and animations on GitHub. Add yours!
-  
-  ![Owl Streak](https://coolreadme.xyz/api/owl-card?user=yerdaulet-damir&streak=100&longest=15&total=800)
-
-- 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)** — Open-source Loom killer built on Next.js 15. Record screen, stream camera, and send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam)
-  
-[![Instagram](https://coolreadme.xyz/api/instagram-card?title=Screen%20%26%20camera%20recorder%20with%20auto-subtitles%2C%20video%20editor%2C%20page%20builder%2C%20analytics&sub=&user=yerdaulet-damir&img=https%3A%2F%2Freechy.cam%2Fmedia%2Fscreenshot-gallery.png&skills=TypeScript%2CReact%2CGo%2CRust)](https://reechy.cam)
-
-- 🧠 [Sheepper](https://sheepper.link/yerdauletdev) — Cursor for knowledge. 
-Sheepper lets anyone publish articles, guides, and playbooks with AI — 
-at one link they fully own. Replacing Telegram channels, Notion exports, 
-and Linktree for knowledge creators with one AI-built space. 
-[sheepper.link](https://sheepper.link/)
-- 💬 **[langgraph-sales-agent](https://github.com/yerdaulet-damir/langgraph-sales-agent)** — The sales agent architecture I keep shipping for clients. Multi-tenant, multi-channel (Telegram, Instagram, WhatsApp). Open-sourcing the kit.
-- 🎒 **[crackthecv](https://github.com/yerdaulet-damir/crackthecv)** — AI-powered CV builder and optimizer (like Cursor, but for resumes)
-- 🎓 admission platform — I built the "LinkedIn for University Admissions." A full-stack, enterprise-grade social network for applicants and universities. I got into HK/UAE/CH/US on full-ride merit-based scholarships and helped 100+ students launch IT careers/projects/ideas—then I scaled that expertise into software. Running an agency or EdTech? Hit me up. I do consulting and build custom admissions infrastructure.
-- 🗣️ **[transcribe-whisper](https://github.com/yerdaulet-damir/transcribe-whisper)** — High accuracy audio transcription using Whisper ( i ain't paying for transcriber services)
-- 🚀 **[icombooster](https://github.com/yerdaulet-damir/icombooster)** — AI Sales Agent for CRMs (Intercom, HubSpot, GoHighLevel). Enriches signups with 40+ data points and scores leads with GPT-4 in <2s. [Product Hunt](https://www.producthunt.com/products/icombooster)
-- 🪐 **[openquiz](https://github.com/yerdaulet-damir/openquiz)** — 100% free, open-source alternative to Quizlet and Anki. Generate SAT and language vocab quizzes instantly using ChatGPT or Claude JSON exports. Originally built for my little bros who were prepping for exams but couldn't afford outragous subscriptions. Paste JSON vocab lists and generate instant flashcards.
-- 📦 **[awesome-saas-fast-stack](https://github.com/yerdaulet-damir/awesome-saas-fast-stack)** — Opinionated starter for AI-SaaS (auth, billing, analytics, CI/CD)
-- ⚙️ **[awesome-latenode-workflows](https://github.com/yerdaulet-damir/awesome-latenode-workflows)** — Free Latenode no-code automation templates for GTM & CX
-
-- 
-### Stats
-
-![Dog Streak](https://coolreadme.xyz/api/dog-card?user=yerdaulet-damir&streak=100&longest=15&total=800)
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
 
 ### Hobbies
 
