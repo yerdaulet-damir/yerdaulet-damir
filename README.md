@@ -1,102 +1,120 @@
-<p align="center">
-  
-[![X (Twitter)](https://coolreadme.xyz/api/x-card?user=yerdaulet-damir&handle=edmontecristox&content=your%20github%20stats%20have%20a%20cat%20form%0Amine%20got%20a%20crown%20somehow%20-%3E%20https%3A%2F%2Fcoolreadme.xyz%2Fgenerator%3Ftypecat-card%3D%26type%3Dcat-card%26user%3Dyerdaulet-damir%0A%0Areplace%20my%20username%20with%20yours%0A%0A%23github%20%23buildinpublic&style=compact&theme=light&accent=%231d9bf0&verified=true&replies=1.2k&retweets=850&likes=999K&views=1.5M&bookmarks=456&time=11%3A42%20AM%20%C2%B7%20Oct%2024%2C%202024&img=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F81626048%3Fv%3D4&link=https%3A%2F%2Fcoolreadme.xyz%2Fgenerator%3Ftypecat-card%3D%26type%3Dcat-card%26user%3Dyerdaulet-damir)](https://coolreadme.xyz/generator?typecat-card=&type=cat-card&user=yerdaulet-damir)
-</p>
-
----
-
-Full-stack AI engineer and applied researcher living at the intersection of product, backend, and automation. I also genuinely enjoy GTM, growth loops, and viral acquisition — not just the infra side.
-I build agents, retrieval systems, multi-agent orchestration, multimodal pipelines, growth automations, anything. Worked deep in low-code/no-code AI agent platforms — both building them and helping others build on top of them.
-
-GitHub is only part of the picture — a lot of my work lives in private repos, client environments, or academic settings.
-
-On the side: AI education — curricula, labs, workshops. Mentored high-schoolers, early-career devs, and people switching from zero tech background into GenAI and prompt engineering. Several mentees already working in tech while still in school.
-
-Always experimenting with whatever dropped yesterday (Cursor, Claude Code, LangGraph, you name it) — at 3 a.m., turning it into production things instead of just vibes.
-> Simplest thing that scales wins.
----
-
-### Projects
-
-**🤖 AI agents & bot tooling**
-
-- 💬 **[langgraph-sales-agent](https://github.com/yerdaulet-damir/langgraph-sales-agent)** : the sales agent architecture I keep shipping for clients. Multi-tenant, multi-channel (Telegram, Instagram, WhatsApp). Open-sourcing the kit. ![Stars](https://img.shields.io/github/stars/yerdaulet-damir/langgraph-sales-agent?style=flat&color=yellow)
-  `Python` · `LangGraph` · `Qdrant` · `Docker`
-- 🤖 **[tgbuilder](https://github.com/yerdaulet-damir/tgbuilder)**: describe a Telegram bot in plain language; an AI agent plans, generates, deploys and auto-fixes a working bot in minutes. Self-hostable.
-  `TypeScript` · `grammY` · `Hono`
-- 🧩 **[tgx](https://github.com/yerdaulet-damir/tgx)**: build Telegram bots fast, less code, full control. State, menus, buttons, Stars payments built in. ![npm](https://img.shields.io/npm/dt/@tgxjs/core?label=downloads&color=CB3837) ![npm](https://img.shields.io/npm/dt/teleping?label=downloads&color=CB3837)
-  `TypeScript` · `grammY` 
-- 🚀 **[icombooster](https://github.com/yerdaulet-damir/icombooster)**: AI sales agent for CRMs (Intercom, HubSpot, GoHighLevel). Enriches signups with 40+ data points and scores leads in under 2s. [Product Hunt](https://www.producthunt.com/products/icombooster)
-  `Next.js` · `FastAPI` · `GPT-4`
-
-**🛠️ Dev tools & the solo-AI stack**
-
-- 🧠 **[awesome-solo-ai](https://github.com/yerdaulet-damir/awesome-solo-ai)** (⭐8): curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs. The one-person-company AI stack you feed to Claude Code.
-- 📐 **[vibe-coding-rules](https://github.com/yerdaulet-damir/vibe-coding-rules)**: production architecture rules for vibe coding with Claude Code & Cursor (FastAPI, Next.js 15, Go 1.22+). ![npm](https://img.shields.io/npm/dt/@aimyerdaulet/vibecodex?label=downloads&color=CB3837)
-- 🔍 **[json-vision](https://open-vsx.org/extension/aimyerdaulet/json-vision)**: VS Code extension, shipped to Open VSX.
-  `TypeScript` · `VS Code`
-  ![Installs](https://img.shields.io/open-vsx/dt/aimyerdaulet/json-vision?label=installs&color=8B5CF6)
-- ✨ **[coolreadme.xyz](https://coolreadme.xyz)**: the fastest way to generate beautiful, dynamic cards for your GitHub profile. Minimal, zero sign-up, raw aesthetic components.
-  `TypeScript` · `Next.js`
-- 📚 **[awesome-github-readme](https://github.com/yerdaulet-damir/awesome-github-readme)** (⭐15): the definitive, viral collection of the best README tools, generators, stats, and animations. Add yours!
-
-  ![Owl Streak](https://coolreadme.xyz/api/owl-card?user=yerdaulet-damir&streak=100&longest=15&total=800)
-- 📦 **[awesome-saas-fast-stack](https://github.com/yerdaulet-damir/awesome-saas-fast-stack)**: opinionated starter for AI-SaaS (auth, billing, analytics, CI/CD).
-- ⚙️ **[awesome-latenode-workflows](https://github.com/yerdaulet-damir/awesome-latenode-workflows)**: free Latenode no-code automation templates for GTM & CX.
-
-**🚀 Products**
-
-- 📹 **[Reechy](https://github.com/yerdaulet-damir/reechy)**: open-source Loom killer on Next.js 15. Record screen, stream camera, send instant video pitches. Zero friction, total control. [reechy.cam](https://reechy.cam) ![npm](https://img.shields.io/npm/dt/@reechy-tools/recorder?label=downloads&color=CB3837)
-
-  [![Instagram](https://coolreadme.xyz/api/instagram-card?title=Screen%20%26%20camera%20recorder%20with%20auto-subtitles%2C%20video%20editor%2C%20page%20builder%2C%20analytics&sub=&user=yerdaulet-damir&img=https%3A%2F%2Freechy.cam%2Fmedia%2Fscreenshot-gallery.png&skills=TypeScript%2CReact%2CGo%2CRust)](https://reechy.cam)
-  `TypeScript` · `React` · `Supabase`
-- 🧠 **[Sheepper](https://sheepper.link/)**: Cursor for knowledge. Publish articles, guides, playbooks with AI at one link you fully own. Replaces Telegram channels, Notion exports, and Linktree for knowledge creators.
-- 🎒 **[crackthecv](https://github.com/yerdaulet-damir/crackthecv)**: AI CV builder and optimizer (like Cursor, but for resumes).
-- 🪐 **[openquiz](https://github.com/yerdaulet-damir/openquiz)**: 100% free, open-source Quizlet/Anki alt. Generate SAT and vocab quizzes from ChatGPT or Claude JSON. Built it for my little bros who couldn't afford the subscriptions.
-- 🎓 **admission platform**: the "LinkedIn for University Admissions." Full-stack social network for applicants and universities. Got into HK/UAE/CH/US on full-ride scholarships and helped 100+ students launch IT careers, then scaled that into software. Running an agency or EdTech? Hit me up.
+[![Yerdaulet Damir — AI product engineer and full-stack engineer](https://coolreadme.xyz/api/cinematic?user=yerdaulet-damir&status=AI%20PRODUCT%20ENGINEER&focus=AI%20agents%20%C2%B7%20full-stack%20%C2%B7%20product%20systems&accent=%23A78BFA&v=20260907b)](https://yerdaulet.xyz)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
-  <img src="https://img.shields.io/badge/LlamaIndex-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <a href="https://www.linkedin.com/in/yerdaulet-damir"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/aimyerdaulet"><img alt="X" src="https://img.shields.io/badge/@aimyerdaulet-000000?style=flat-square&logo=x&logoColor=white"></a>
+  <a href="https://www.producthunt.com/products/coolreadme-xyz"><img alt="Product Hunt" src="https://img.shields.io/badge/Product_Hunt-DA552F?style=flat-square&logo=producthunt&logoColor=white"></a>
+  <a href="https://yerdaulet.xyz"><img alt="Website" src="https://img.shields.io/badge/yerdaulet.xyz-111827?style=flat-square&logo=safari&logoColor=white"></a>
 </p>
 
----
+I'm Yerdaulet Damir, a product engineer and AI engineer based in Abu Dhabi, UAE. I have worked as a CTO / Technical Lead, full-stack engineer and AI product engineer, owning frontend, backend, AI agents, payments, cloud infrastructure, CI/CD and on-premise systems. I have built multi-provider AI platforms, multi-tenant sales agents, EdTech products, farm-operations software, GovTech regulatory-analysis tools and software connected to physical access hardware. I also teach AI-native development, host technical sessions and speak at technology events. Outside software, I have performed in theatre and recorded event invitations and character voices as a professional voice-over artist. I study AI Engineering at MBZUAI.
 
-### Hobbies
+[![Andrej Karpathy: The hottest new programming language is English](https://coolreadme.xyz/api/x-card?user=Andrej%20Karpathy&handle=karpathy&img=https%3A%2F%2Favatars.githubusercontent.com%2Fkarpathy&verified=true&style=compact&theme=dark&content=The%20hottest%20new%20programming%20language%20is%20English&replies=1.8K&retweets=7.8K&likes=60.8K&bookmarks=%E2%80%94&views=10.8M&time=Jan%2024%2C%202023&link=https%3A%2F%2Fx.com%2Fkarpathy%2Fstatus%2F1617979122625712128&v=20260907a)](https://x.com/karpathy/status/1617979122625712128)
 
-![Netflix](https://coolreadme.xyz/api/netflix-card?title=Supernatural&style=hero&user=yerdaulet-damir&synopsis=dark%20fantasy%20television%20series%20(2005%E2%80%932020)%20that%20follows%20brothers%20Sam%20and%20Dean%20Winchester%20as%20they%20travel%20across%20the%20United%20States%20hunting%20supernatural%20beings&cast=Jensen%20Ackles&match=98&year=2025&season=S9&episode=E10&duration=48%3A00&progress=52&img=https%3A%2F%2Fstatic0.cbrimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F04%2Fjensen-ackles-as-dean-winchester-and-jared-padalecki-as-sam-winchester-in-a-promo-for-supernatural.jpg%3Fw%3D1200%26h%3D675%26fit%3Dcrop&link=https%3A%2F%2Fsupernatural-spn.net%2F)
+<a href="https://reechy.cam"><img src="./assets/reechy-product-hunt-cover.png" alt="Reechy — your complete video workspace" width="100%"></a>
 
+**[Reechy](https://reechy.cam)** — record, edit, publish and measure video without leaving the browser.
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://gymmy.life"><img alt="Gymmy" width="100%" src="https://gymmy.life/gen/gymmy-telegram-hero-poster.jpg"></a><br>
+      <b>Gymmy</b> is a Telegram-native multimodal fitness agent with persistent workout state. Photo, voice and text update the same history; it notices when someone stops training, re-engages them without waiting for another prompt, and can roast missed sessions inside group chats. <a href="https://t.me/gymmybuddy_bot?start=landing">Try it</a>.
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://coolreadme.xyz/build?user=yerdaulet-damir"><img alt="CoolREADME" width="100%" src="https://coolreadme.xyz/producthunt/hero.webp"></a><br>
+      <b>CoolREADME</b> turns a GitHub profile into a customizable feed of live cards. Build project galleries, contribution stats, streak pets, profile heroes, social posts, music and media cards in the browser—or give Codex or Claude your GitHub link and let the agent compose the README. Every result is editable through its URL and ready to paste as Markdown. <a href="https://coolreadme.xyz/build?user=yerdaulet-damir">Build yours</a> · <a href="https://coolreadme.xyz/templates">all cards</a>.
+    </td>
+  </tr>
+</table>
+
+## Open-source products and systems
+
+[![Open-source products and systems](https://coolreadme.xyz/api/projects-gallery?user=yerdaulet-damir&projects=langgraph-sales-agent|Deployable+multi-tenant+AI+sales+agents+with+business+data,+tools+and+channels+already+wired.|Python|33|https://github.com/yerdaulet-damir/langgraph-sales-agent;;tgbuilder|Build,+run,+repair+and+edit+complete+Telegram+bots+from+a+Telegram+conversation.|TypeScript|1|https://github.com/yerdaulet-damir/tgbuilder;;awesome-solo-ai|Curated+tool+and+skill+library+for+building+one-person+AI+companies.|Markdown|18|https://github.com/yerdaulet-damir/awesome-solo-ai;;vibe-coding-rules|54+production+constraints+for+FastAPI,+Next.js+and+Go.|TypeScript|12|https://github.com/yerdaulet-damir/vibe-coding-rules;;openquiz|Open-source+Quizlet+and+Anki+alternative+for+learning+workflows.|TypeScript|11|https://github.com/yerdaulet-damir/openquiz;;json-vision|Virtualized+VS+Code+views+for+multi-GB+JSON.+1.9k+downloads.|TypeScript|4|https://open-vsx.org/extension/aimyerdaulet/json-vision&title=OPEN%20SOURCE%20PRODUCTS&theme=dark&accent=FBBF24&v=20260907d)](https://github.com/yerdaulet-damir?tab=repositories)
+
+- **[LangGraph Sales Agent](https://github.com/yerdaulet-damir/langgraph-sales-agent)** — a deployable open-source base for AI sales agents. Start it locally, inspect and test the complete sales flow, connect a company's catalog and APIs, then launch on Telegram, Instagram, WhatsApp or the web. One deployment can serve multiple businesses while keeping each tenant's customers, products, brand, tools and model isolated.
+- **[TGBuilder](https://github.com/yerdaulet-damir/tgbuilder)** — an AI Telegram bot builder that operates inside Telegram itself. Describe a booking, support or workflow bot in chat; it plans the behavior, writes and starts the code, checks that it stays alive, repairs crashes and applies later changes through the same conversation. One shared service runs every generated bot, while bot owners need no LLM API key.
+- **[Awesome Solo AI](https://github.com/yerdaulet-damir/awesome-solo-ai)** — a tool and skill library for one-person AI companies: agent frameworks, research systems, coding tools, browser automation, media pipelines and distribution workflows. 18 stars and 10 forks.
+- **[JSON Vision](https://open-vsx.org/extension/aimyerdaulet/json-vision)** — a VS Code extension that indexes JSONL byte offsets, reads only visible rows and virtualizes tables, posts, trees and schema graphs. An 84 MB, 72,143-line file indexes in about 80 ms; 1,944 Open VSX downloads. [Source](https://github.com/yerdaulet-damir/json-vision).
+- **[OpenQuiz](https://github.com/yerdaulet-damir/openquiz)** and **[Lawnode](https://github.com/yerdaulet-damir/lawnode)** cover two different product domains: an open-source Quizlet/Anki alternative and regulatory contradiction detection with graph analytics and multilingual NLI.
+
+## Systems against AI slop
+
+[![Redpen, Hookmaxxing, Vibe Coding Rules and Awesome Solo AI](https://coolreadme.xyz/api/projects-gallery?user=yerdaulet-damir&projects=redpen|Makes+AI+find+the+product+truth+and+reader+before+writing+the+copy.|Python|1|https://github.com/yerdaulet-damir/redpen;;hookmaxxing|Writes+hooks+around+one+viewer,+one+argument+and+visible+proof.|Python|2|https://github.com/yerdaulet-damir/hookmaxxing;;vibe-coding-rules|Gives+AI+coding+agents+54+production+architecture+rules.|TypeScript|12|https://github.com/yerdaulet-damir/vibe-coding-rules;;awesome-solo-ai|A+curated+library+of+AI+tools,+agent+skills,+MCP+servers+and+workflows.|Markdown|18|https://github.com/yerdaulet-damir/awesome-solo-ai&title=AGENT%20SKILLS%20%26%20GUARDRAILS&theme=dark&accent=F472B6&v=20260907b)](https://github.com/yerdaulet-damir)
+
+- **[Redpen](https://github.com/yerdaulet-damir/redpen)** is an AI copywriting skill for landing pages, headlines, emails and launch content. It builds a truth ledger, identifies one reader's real situation, compares distinct arguments and rejects copy that is vague, invented or interchangeable with a competitor's.
+- **[Hookmaxxing](https://github.com/yerdaulet-damir/hookmaxxing)** gives Codex, Claude and Hermes a repeatable system for hooks, titles and opening frames. Every hook needs one viewer, one argument, a truthful contrast, visible proof and a body that pays off the exact promise.
+- **[Vibe Coding Rules](https://github.com/yerdaulet-damir/vibe-coding-rules)** handles the code side: 54 drop-in architecture rules for FastAPI, Next.js and Go that keep AI-generated products maintainable, testable and deployable after the prototype works.
+
+## GitHub stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yerdaulet-damir&amp;theme=github_dark&amp;animation=load&amp;duration=2">
+  <img alt="Yerdaulet Damir — GitHub contribution history and public repositories" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yerdaulet-damir&amp;theme=github&amp;animation=load&amp;duration=2">
+</picture>
+
+<table>
+  <tr>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yerdaulet-damir&amp;theme=github_dark&amp;animation=load&amp;duration=2">
+        <img alt="Yerdaulet Damir — GitHub stars, commits, pull requests, issues and contributed repositories" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yerdaulet-damir&amp;theme=github&amp;animation=load&amp;duration=2">
+      </picture>
+    </td>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yerdaulet-damir&amp;theme=github_dark&amp;animation=load&amp;duration=2">
+        <img alt="Yerdaulet Damir — top programming languages by repository" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yerdaulet-damir&amp;theme=github&amp;animation=load&amp;duration=2">
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<a href="https://coolreadme.xyz/build?user=yerdaulet-damir&amp;type=cat-card"><img alt="CoolREADME level 67 cat" width="100%" src="https://coolreadme.xyz/api/cat-card?user=yerdaulet-damir&amp;streak=67&amp;longest=67&amp;hideTotal=true&amp;style=default&amp;v=20260907c"></a>
+
+<a href="https://www.warnerbros.co.jp/home_entertainment/4orfgzmot/"><img alt="Supernatural — all 15 seasons" width="100%" src="https://coolreadme.xyz/api/netflix-card?title=Supernatural&amp;style=hero&amp;user=yerdaulet-damir&amp;synopsis=Sam%20and%20Dean%20Winchester%20hunt%20monsters%2C%20demons%2C%20angels%20and%20occasionally%20God.&amp;cast=Jensen%20Ackles%2C%20Jared%20Padalecki%2C%20Misha%20Collins&amp;genre=Dark%20fantasy%2C%20drama&amp;rating=TV-14&amp;match=100&amp;year=2005%E2%80%932020&amp;season=Season%2015&amp;episode=Carry%20On&amp;duration=42m&amp;quality=4K&amp;progress=100&amp;img=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2F0b14285f4439472096dc5edecad7e15f%2F23666e094f4a4d02b09db01b0654ff55%2Fsource-15304933927afe6d03de457fbb204dd63b134ef2master.jpg%3Ffm%3Dwebp%26w%3D1360&amp;v=20260907b"></a>
+
+[![Sheepper turns AI output into a published course, guide or program](./assets/sheepper-promo.jpg)](https://sheepper.link)
+
+**[Sheepper](https://sheepper.link)** stores each course, guide or media library as one product record powering the block editor, storefront, access rules and learner view. The same product can be edited in the UI or through connected Codex and Claude agents.
+
+## Tools I work with
+
+**Languages and product stack**
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&amp;logo=typescript&amp;logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white">
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&amp;logo=springboot&amp;logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white">
+</p>
+
+**AI systems and agents**
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langgraph-text.png"><img height="26" alt="LangGraph" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/langgraph-text.png"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/openai-text.png"><img height="26" alt="OpenAI" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/openai-text.png"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claude-text.png"><img height="26" alt="Claude" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claude-text.png"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/gemini-text.png"><img height="26" alt="Gemini" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/gemini-text.png"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/chatglm-text.png"><img height="26" alt="ChatGLM" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/chatglm-text.png"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/codex-text.png"><img height="26" alt="Codex" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/codex-text.png"></picture>&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@latest/dark/claudecode-text.png"><img height="26" alt="Claude Code" src="https://unpkg.com/@lobehub/icons-static-png@latest/light/claudecode-text.png"></picture>
+</p>
+
+**Data, infrastructure and delivery**
+
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white">
+  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-181818?style=flat-square&amp;logo=supabase&amp;logoColor=3FCF8E">
+  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&amp;logo=cloudflareworkers&amp;logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white">
+</p>
+
+Greco-Roman wrestling · English, Kazakh and Russian · fiction, history and poetry.
